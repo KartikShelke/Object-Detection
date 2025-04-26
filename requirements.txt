@@ -1,3 +1,7 @@
 streamlit==1.19.0
 opencv-python-headless==4.7.0.72
 numpy==1.23.5
+rich>=10.14.0
+markdown-it-py>=2.2.0
+pygments>=2.13.0,<3.0.0
+mdurl~=0.1
