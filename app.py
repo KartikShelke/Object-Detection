@@ -4,7 +4,7 @@ import numpy as np
 import os
 
 # Load YOLO model
-net = cv2.dnn.readNet('yolov3.weights', 'yolov3.cfg')
+net = cv2.dnn.readNet('./yolov3.weights', './yolov3.cfg')
 
 # Load COCO class names
 classes = []
