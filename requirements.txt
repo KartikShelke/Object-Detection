@@ -1,6 +1,7 @@
 streamlit==1.19.0
+altair==4.2.2
+numpy==1.26.4   # (or newer, to avoid distutils issue)
 opencv-python-headless==4.7.0.72
-numpy==1.26.4
 rich>=10.14.0
 markdown-it-py>=2.2.0
 pygments>=2.13.0,<3.0.0
